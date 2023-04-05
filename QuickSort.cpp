@@ -44,7 +44,6 @@ void quickSort(int array[], int low, int high) {
   }
 }
 
-
 int main() {
   int data[] = {8, 7, 6, 1, 0, 9, 2};
   int n = sizeof(data) / sizeof(data[0]);
